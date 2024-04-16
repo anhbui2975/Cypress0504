@@ -11,5 +11,8 @@
   "dependencies": {
     "cypress": "^13.7.2",
     "save-dev": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "cypress-iframe": "^1.0.1"
   }
 }
